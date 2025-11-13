@@ -11,7 +11,7 @@ I love transforming ideas into fully functional applications — from HR systems
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [**Lead Score Prediction (CRM)**](./02-CRM-Analytics/Lead-Score-Prediction/README.md) | Predicts CRM lead scores using Oracle Machine Learning for SQL (OML4SQL). | Oracle DB, OML4SQL, APEX |
-| [**Leave Management System (HRMS)**](./01-HRMS-Applications/Leave-Management/README.md) | Automates employee leave requests, approvals, and notifications in Oracle APEX. | Oracle APEX, PL/SQL |
+| [**Leave Management System (HRMS)**](./🧾 01-HRMS-Applications/Leave-Management/README.md) | Automates employee leave requests, approvals, and notifications in Oracle APEX. | Oracle APEX, PL/SQL |
 | [**AI Chat Assistant – Haya**](./03-Integrations-and-AI/AI-Chat-Assistant-Haya/README.md) | A chatbot powered by integrated AI APIs for interactive enterprise help. | API Integration, APEX, JS |
 
 ---
@@ -19,8 +19,8 @@ I love transforming ideas into fully functional applications — from HR systems
 ## 🗂️ Full Project List
 
 ### 🧾 HRMS Applications
-- [Leave Management](./01-HRMS-Applications/Leave-Management/README.md)
-- [Payroll Management](./01-HRMS-Applications/Payroll-Management/README.md)
+- [Leave Management](./🧾 01-HRMS-Applications/Leave-Management/README.md)
+- [Payroll Management](./🧾 01-HRMS-Applications/Payroll-Management/README.md)
 
 ### 📈 CRM Analytics
 - [Lead Score Prediction](./02-CRM-Analytics/Lead-Score-Prediction/README.md)
