@@ -10,25 +10,25 @@ I love transforming ideas into fully functional applications — from HR systems
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**Lead Score Prediction (CRM)**](./02-CRM-Analytics/Lead-Score-Prediction/README.md) | Predicts CRM lead scores using Oracle Machine Learning for SQL (OML4SQL). | Oracle DB, OML4SQL, APEX |
-| [**Leave Management System (HRMS)**](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/🧾01-HRMS-Applications/Leave%20Management) | Automates employee leave requests, approvals, and notifications in Oracle APEX. | Oracle APEX, PL/SQL |
-| [**AI Chat Assistant – Haya**](./03-Integrations-and-AI/AI-Chat-Assistant-Haya/README.md) | A chatbot powered by integrated AI APIs for interactive enterprise help. | API Integration, APEX, JS |
+| [**Lead Score Prediction (CRM)**](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/02-CRM-Analytics/Lead-Score-Prediction) | Predicts CRM lead scores using OML4SQL. | Oracle DB, OML4SQL, APEX |
+| [**Leave Management System (HRMS)**](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/01-HRMS-Applications/Leave%20Management) | Automates employee leave requests, approvals, and notifications. | Oracle APEX, PL/SQL |
+| [**AI Chat Assistant – Haya**](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/03-Integrations-and-AI/AI-Chat-Assistant-Haya) | A chatbot powered by integrated AI APIs for enterprise support. | API Integration, APEX, JS |
 
 ---
 
 ## 🗂️ Full Project List
 
 ### 🧾 HRMS Applications
-- [Leave Management](./Oracle-APEX-Projects/🧾01-HRMS-Applications/Leave-Management/README.md)
-- [Payroll Management](./Oracle-APEX-Projects/🧾01-HRMS-Applications/Payroll-Management/README.md)
+- [Leave Management](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/01-HRMS-Applications/Leave%20Management)
+- [Payroll Management](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/01-HRMS-Applications/Payroll-Management)
 
 ### 📈 CRM Analytics
-- [Lead Score Prediction](./02-CRM-Analytics/Lead-Score-Prediction/README.md)
-- [Sales Prediction](./02-CRM-Analytics/Sales-Prediction/README.md)
+- [Lead Score Prediction](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/02-CRM-Analytics/Lead-Score-Prediction)
+- [Sales Prediction](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/02-CRM-Analytics/Sales-Prediction)
 
 ### 🤖 Integrations & AI
-- [ORDS API Integration (CRUD)](./03-Integrations-and-AI/ORDS-API-Integration/README.md)
-- [AI Chat Assistant – Haya](./03-Integrations-and-AI/AI-Chat-Assistant-Haya/README.md)
+- [ORDS API Integration (CRUD)](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/03-Integrations-and-AI/ORDS-API-Integration)
+- [AI Chat Assistant – Haya](https://github.com/Noureen124/Oracle-APEX-Projects/tree/main/03-Integrations-and-AI/AI-Chat-Assistant-Haya)
 
 ---
 
@@ -54,9 +54,9 @@ I love transforming ideas into fully functional applications — from HR systems
 
 ## 💡 About Me
 
-- 🎓 Developer passionate about AI integration within enterprise apps.  
-- 🧩 Experienced in creating data-driven dashboards, HRMS tools, and predictive models.  
-- 🏗️ Strong believer in continuous learning — currently deepening Oracle ML and APEX automation.
+- 🎓 Developer passionate about AI integration within enterprise apps  
+- 🧩 Experienced in HRMS tools, CRM analytics, and ML models  
+- 🏗️ Continuously improving in Oracle APEX and ML automation
 
 ---
 
@@ -67,19 +67,5 @@ I love transforming ideas into fully functional applications — from HR systems
 - ✉️ [Email Me](mailto:noureenrahman124@gmail.com)
 
 ---
-⭐ *If you like my projects, consider starring this repo — it motivates me to share more!*
 
-<!--
-**Noureen124/Noureen124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *If you like my projects, consider starring my repo — it motivates me to share more!*
